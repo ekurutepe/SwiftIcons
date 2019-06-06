@@ -9,11 +9,12 @@ Pod::Spec.new do |s|
     s.social_media_url = 'https://github.com/ranesr'
     s.homepage = 'https://github.com/ranesr/SwiftIcons'
     s.screenshots = 'https://raw.githubusercontent.com/ranesr/SwiftIcons/master/docs/images/pic01.png'
-
+    
     s.source = { :git => 'https://github.com/ranesr/SwiftIcons.git', :tag => s.version }
     s.ios.deployment_target = '11.2'
     s.tvos.deployment_target = '11.2'
-    s.source_files   = 'Source/SwiftIcons.swift'
+    s.ios.source_files   = 'Source/*.swift'
+    s.tvos.source_files   = 'Source/SwiftIcons.swift'
     s.resource_bundle = { 'SwiftIcons' => 'Source/Fonts/*.ttf' }
 
 end
