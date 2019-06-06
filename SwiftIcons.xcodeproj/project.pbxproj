@@ -26,6 +26,24 @@
 		4389E61620FE91D400175651 /* FontAwesomeBrands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F520FE8FCB00175651 /* FontAwesomeBrands.ttf */; };
 		4389E61720FE91D400175651 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F620FE8FCB00175651 /* MaterialIcons.ttf */; };
 		4389E61920FE91DE00175651 /* SwiftIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4389E5F820FE8FCB00175651 /* SwiftIcons.swift */; };
+		8727624F22A93D1E00BF4113 /* SwiftIcons_TV.h in Headers */ = {isa = PBXBuildFile; fileRef = 8727624D22A93D1E00BF4113 /* SwiftIcons_TV.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8727625322A93D3200BF4113 /* SwiftIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4389E5F820FE8FCB00175651 /* SwiftIcons.swift */; };
+		8727625422A93D4100BF4113 /* Icofont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5E920FE8FCB00175651 /* Icofont.ttf */; };
+		8727625522A93D4100BF4113 /* MapIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5EA20FE8FCB00175651 /* MapIcons.ttf */; };
+		8727625622A93D4100BF4113 /* Dripicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5EB20FE8FCB00175651 /* Dripicons.ttf */; };
+		8727625722A93D4100BF4113 /* OpenIconic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5EC20FE8FCB00175651 /* OpenIconic.ttf */; };
+		8727625822A93D4100BF4113 /* FontAwesomeSolid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5ED20FE8FCB00175651 /* FontAwesomeSolid.ttf */; };
+		8727625922A93D4100BF4113 /* WeatherIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5EE20FE8FCB00175651 /* WeatherIcons.ttf */; };
+		8727625A22A93D4100BF4113 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5EF20FE8FCB00175651 /* Ionicons.ttf */; };
+		8727625B22A93D4100BF4113 /* TypIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05E50F81213EA67C007FEB78 /* TypIcons.ttf */; };
+		8727625C22A93D4100BF4113 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F020FE8FCB00175651 /* FontAwesome.ttf */; };
+		8727625D22A93D4100BF4113 /* FontAwesomeRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F120FE8FCB00175651 /* FontAwesomeRegular.ttf */; };
+		8727625E22A93D4100BF4113 /* Stateface.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F220FE8FCB00175651 /* Stateface.ttf */; };
+		8727625F22A93D4100BF4113 /* Linearicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F320FE8FCB00175651 /* Linearicons.ttf */; };
+		8727626022A93D4100BF4113 /* Emoji.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F420FE8FCB00175651 /* Emoji.ttf */; };
+		8727626122A93D4100BF4113 /* FontAwesomeBrands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F520FE8FCB00175651 /* FontAwesomeBrands.ttf */; };
+		8727626222A93D4100BF4113 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4389E5F620FE8FCB00175651 /* MaterialIcons.ttf */; };
+		8727626522A93DBD00BF4113 /* SwiftIcons-iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8727626322A93D8E00BF4113 /* SwiftIcons-iOS.swift */; };
 		A605C1341E37A9EF0079765A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A605C1331E37A9EF0079765A /* AppDelegate.swift */; };
 		A605C1391E37A9EF0079765A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A605C1371E37A9EF0079765A /* Main.storyboard */; };
 		A605C13B1E37A9EF0079765A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A605C13A1E37A9EF0079765A /* Assets.xcassets */; };
@@ -96,6 +114,10 @@
 		4389E5F620FE8FCB00175651 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
 		4389E5F720FE8FCB00175651 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4389E5F820FE8FCB00175651 /* SwiftIcons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIcons.swift; sourceTree = "<group>"; };
+		8727624B22A93D1E00BF4113 /* SwiftIcons_TV.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftIcons_TV.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8727624D22A93D1E00BF4113 /* SwiftIcons_TV.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftIcons_TV.h; sourceTree = "<group>"; };
+		8727624E22A93D1E00BF4113 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8727626322A93D8E00BF4113 /* SwiftIcons-iOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIcons-iOS.swift"; sourceTree = "<group>"; };
 		A605C1301E37A9EE0079765A /* SwiftIconsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIconsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A605C1331E37A9EF0079765A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A605C1381E37A9EF0079765A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -133,6 +155,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8727624822A93D1E00BF4113 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A605C12D1E37A9EE0079765A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -158,6 +187,7 @@
 				4389E5E820FE8FCB00175651 /* Fonts */,
 				4389E5F720FE8FCB00175651 /* Info.plist */,
 				4389E5F820FE8FCB00175651 /* SwiftIcons.swift */,
+				8727626322A93D8E00BF4113 /* SwiftIcons-iOS.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -184,6 +214,15 @@
 			path = Fonts;
 			sourceTree = "<group>";
 		};
+		8727624C22A93D1E00BF4113 /* SwiftIcons-TV */ = {
+			isa = PBXGroup;
+			children = (
+				8727624D22A93D1E00BF4113 /* SwiftIcons_TV.h */,
+				8727624E22A93D1E00BF4113 /* Info.plist */,
+			);
+			path = "SwiftIcons-TV";
+			sourceTree = "<group>";
+		};
 		A605C1271E37A9EE0079765A = {
 			isa = PBXGroup;
 			children = (
@@ -191,6 +230,7 @@
 				A6DDCFA41E40E3E500191F5C /* Resources */,
 				A605C1321E37A9EE0079765A /* SwiftIconsApp */,
 				A671D6951EAFD5BA00849862 /* SwiftIconsTests */,
+				8727624C22A93D1E00BF4113 /* SwiftIcons-TV */,
 				A605C1311E37A9EE0079765A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -201,6 +241,7 @@
 				A605C1301E37A9EE0079765A /* SwiftIconsApp.app */,
 				A671D6941EAFD5BA00849862 /* SwiftIconsTests.xctest */,
 				4389E5D920FE8E4400175651 /* SwiftIcons.framework */,
+				8727624B22A93D1E00BF4113 /* SwiftIcons_TV.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -262,6 +303,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8727624622A93D1E00BF4113 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8727624F22A93D1E00BF4113 /* SwiftIcons_TV.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -281,6 +330,24 @@
 			name = SwiftIcons;
 			productName = SwiftIcons;
 			productReference = 4389E5D920FE8E4400175651 /* SwiftIcons.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		8727624A22A93D1E00BF4113 /* SwiftIcons-TV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8727625222A93D1E00BF4113 /* Build configuration list for PBXNativeTarget "SwiftIcons-TV" */;
+			buildPhases = (
+				8727624622A93D1E00BF4113 /* Headers */,
+				8727624722A93D1E00BF4113 /* Sources */,
+				8727624822A93D1E00BF4113 /* Frameworks */,
+				8727624922A93D1E00BF4113 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SwiftIcons-TV";
+			productName = "SwiftIcons-TV";
+			productReference = 8727624B22A93D1E00BF4113 /* SwiftIcons_TV.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		A605C12F1E37A9EE0079765A /* SwiftIconsApp */ = {
@@ -336,6 +403,11 @@
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
+					8727624A22A93D1E00BF4113 = {
+						CreatedOnToolsVersion = 10.2.1;
+						DevelopmentTeam = MFRY9RPA96;
+						ProvisioningStyle = Automatic;
+					};
 					A605C12F1E37A9EE0079765A = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = YT594STPKB;
@@ -355,6 +427,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -366,6 +439,7 @@
 				A605C12F1E37A9EE0079765A /* SwiftIconsApp */,
 				A671D6931EAFD5BA00849862 /* SwiftIconsTests */,
 				4389E5D820FE8E4400175651 /* SwiftIcons */,
+				8727624A22A93D1E00BF4113 /* SwiftIcons-TV */,
 			);
 		};
 /* End PBXProject section */
@@ -390,6 +464,28 @@
 				4389E61520FE91D400175651 /* Emoji.ttf in Resources */,
 				4389E60A20FE91D400175651 /* Icofont.ttf in Resources */,
 				4389E61320FE91D400175651 /* Stateface.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8727624922A93D1E00BF4113 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8727625422A93D4100BF4113 /* Icofont.ttf in Resources */,
+				8727625522A93D4100BF4113 /* MapIcons.ttf in Resources */,
+				8727625622A93D4100BF4113 /* Dripicons.ttf in Resources */,
+				8727625722A93D4100BF4113 /* OpenIconic.ttf in Resources */,
+				8727625822A93D4100BF4113 /* FontAwesomeSolid.ttf in Resources */,
+				8727625922A93D4100BF4113 /* WeatherIcons.ttf in Resources */,
+				8727625A22A93D4100BF4113 /* Ionicons.ttf in Resources */,
+				8727625B22A93D4100BF4113 /* TypIcons.ttf in Resources */,
+				8727625C22A93D4100BF4113 /* FontAwesome.ttf in Resources */,
+				8727625D22A93D4100BF4113 /* FontAwesomeRegular.ttf in Resources */,
+				8727625E22A93D4100BF4113 /* Stateface.ttf in Resources */,
+				8727625F22A93D4100BF4113 /* Linearicons.ttf in Resources */,
+				8727626022A93D4100BF4113 /* Emoji.ttf in Resources */,
+				8727626122A93D4100BF4113 /* FontAwesomeBrands.ttf in Resources */,
+				8727626222A93D4100BF4113 /* MaterialIcons.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,7 +516,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8727626522A93DBD00BF4113 /* SwiftIcons-iOS.swift in Sources */,
 				4389E61920FE91DE00175651 /* SwiftIcons.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8727624722A93D1E00BF4113 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8727625322A93D3200BF4113 /* SwiftIcons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -539,6 +644,71 @@
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8727625022A93D1E00BF4113 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = MFRY9RPA96;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				INFOPLIST_FILE = "SwiftIcons-TV/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ranesr.SwiftIcons-TV";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 12.2;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		8727625122A93D1E00BF4113 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = MFRY9RPA96;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				INFOPLIST_FILE = "SwiftIcons-TV/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ranesr.SwiftIcons-TV";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 12.2;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -719,6 +889,15 @@
 			buildConfigurations = (
 				4389E5E220FE8E4400175651 /* Debug */,
 				4389E5E320FE8E4400175651 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8727625222A93D1E00BF4113 /* Build configuration list for PBXNativeTarget "SwiftIcons-TV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8727625022A93D1E00BF4113 /* Debug */,
+				8727625122A93D1E00BF4113 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
